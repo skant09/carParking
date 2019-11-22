@@ -1,0 +1,16 @@
+/* .sticky-left {
+  position: sticky;
+  left: 0px;
+  background-color: #ffffff;
+  z-index: 1;
+}
+.sticky-top {
+  position: sticky;
+  top: 0px;
+  background-color: #ffffff;
+  z-index: 2;
+} */
+
+tr td:not(:first-child) {
+  border-collapse: separate;
+}
